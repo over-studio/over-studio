@@ -2,9 +2,6 @@
 
 I am Moussa Jemni from Montreal, Canada who is a Full-Stack Developer, always learning new things, ready for discussions and making new projects.
 
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯
-
 ### Programming Languages 🌐
 
 - Know/Using
