@@ -1,18 +1,17 @@
 ## Hi there 👋
 
-JavaScript
-TypeScript
-Svelte5 & Sveltekit
-Tailwind
-Git & Github
-Jira
-Api
-Node.js
-React.js
-Postgres
-Databases
-Backend
-DSA
+- JavaScript
+- TypeScript
+- Svelte5 & Sveltekit
+- Tailwind
+- Git & Github
+- Jira
+- Api
+- Node.js
+- React.js
+- Databases, MongoDB, Postgres
+- Backend
+- DSA
 
 <!--
 **over-studio/over-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
